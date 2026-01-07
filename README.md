@@ -132,7 +132,7 @@ uvicorn main_cn:app --reload --port 8001
 │   ├── classroom/         # VR classrooms
 │   ├── experiments/       # Interactive VR experiments
 │   ├── dashboard/         # User dashboard
-│   └── ...
+│   
 ├── backend/               # FastAPI backend
 │   ├── create_experiment/ # LLM experiment generation logic
 │   ├── chat_with_notes/   # PDF RAG pipeline
@@ -140,7 +140,7 @@ uvicorn main_cn:app --reload --port 8001
 │   ├── uploads/           # Uploaded PDFs
 │   ├── main_ce.py         # Experiment Generator entry point
 │   └── main_cn.py         # PDF Chat entry point
-└── ...
+
 
 -> Contributing
 
