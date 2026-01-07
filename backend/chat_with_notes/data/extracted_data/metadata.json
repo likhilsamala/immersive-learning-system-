@@ -1,0 +1,142 @@
+[
+  {
+    "chunk_id": "2e02a038-6b32-469e-8bc9-aa1d16b9de6a",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "q1. define web analytics answer: web analytics is the process of collecting, measuring, analyzing, and reporting data about how users interact with a website or mobile application. it records user behavior such as pageviews, navigation paths, time spent, traffic sources, and conversions, and then transforms this data into insights. it achieve business like higher traffic, sales, and roi. goals q2. explain model for analysis with a neat diagram answer: the model of analysis combines qualitative u"
+  },
+  {
+    "chunk_id": "2fd6dced-72b9-43e0-8ef8-81c304902b70",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": " explain model for analysis with a neat diagram answer: the model of analysis combines qualitative ux research (why users behave a certain way) with quantitative web analytics data (what users actually do at scale) ux research small sample studies (usability testing, interviews). web analytics large-scale data (thousands of visitors) . combined power ux identifies problems, analytics shows how widespread they are example: usability test 5/10 users clicked wrong link. web analytics 63% of real us"
+  },
+  {
+    "chunk_id": "beca35a8-5843-4161-8c2d-48f5c23cdeda",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "espread they are example: usability test 5/10 users clicked wrong link. web analytics 63% of real users do the same confirms problem at scale user research (why) web analytics (what) model of analysis deeper insights + stronger evidence q3. explain the importance of user experience research in web analytics answer: ux research focuses on usability; usefulness, and satisfaction. it helps answer why users behave in a certain way. web analytics alone tells only what happened, not why. by combining "
+  },
+  {
+    "chunk_id": "fe39fa45-465b-4d49-811a-d7418c448277",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": " users behave in a certain way. web analytics alone tells only what happened, not why. by combining both: analytics quantifies user problems observed in ux testing: ux provides meaning and explanation for the numbers in analytics. together; they form a perfect fit to improve design and prove issues to stakeholders. q4. explain the role of context matters in web analytics answer: numbers alone can mislead without context. example: a page shows high pageviews but very low time spent. without conte"
+  },
+  {
+    "chunk_id": "8f3715d4-60e0-4525-a719-ea17e8385d47",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "mislead without context. example: a page shows high pageviews but very low time spent. without context might assume content is poor. with context users actually click the page by mistake due to misleading link and leave quickly. hence, context ensures correct interpretation of data and prevents wrong conclusions. q5. describe showcasing the work in web analytics answer: showcasing means presenting findings clearly to stakeholders using analytics data. numbers add credibility to usability issues."
+  },
+  {
+    "chunk_id": "1da18c04-2a38-42d6-98ba-8cbab13b7bf1",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": " findings clearly to stakeholders using analytics data. numbers add credibility to usability issues. helps in convincing management to approve design changes. example: instead of saying \"users are confused\" , show evidence: \"63% of users clicked the wrong link, and this page has the lowest average time spent.:' q6. explain contradicting data in web analytics answer: sometimes data appears confusing or contradictory. example: a page has high visits but low time spent seems wrong. ux testing may r"
+  },
+  {
+    "chunk_id": "76490ac3-a06d-4059-b0e9-a6c54470e1bb",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "g or contradictory. example: a page has high visits but low time spent seems wrong. ux testing may reveal the reason (misleading link, users bounce quickly) . contradictions highlight the limits of analytics alone and the need to combine with ux insights. q7.a sudden traffic spike appears in analytics. using context, how would you evaluate whether this is positive or misleading? answer: to evaluate a traffic spike: 1 check traffic source: did it come from a trusted site or spam/bots? 2 look at e"
+  },
+  {
+    "chunk_id": "fbaf1b6d-cc24-41f1-a8bb-ff0457aaff38",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "e a traffic spike: 1 check traffic source: did it come from a trusted site or spam/bots? 2 look at engagement: if bounce rate is high and time on site is very low misleading spike. 3 analyze conversions: if new visitors are converting (buying/registering) positive. 4 compare with past trends: see if it matches seasonal events, promotions, or campaigns. conclusion: only by adding context (source, quality; purpose) can we decide if the spike is truly positive or just misleading: unit ii working of"
+  },
+  {
+    "chunk_id": "1323593d-bb36-4f0d-8cc7-2764849effd4",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "uality; purpose) can we decide if the spike is truly positive or just misleading: unit ii working of web analytics q1. define page tagging and its role in web analytics answer: page tagging is a method where a small javascript code is added to each webpage. when the page loads, the sends data (url, time, referrer; browser; ip, device details) to the analytics tool. tag cookie is stored on the user's device to track whether the visitor is new or returning. role in web analytics: captures detailed"
+  },
+  {
+    "chunk_id": "c3ccf4e6-a64d-41a1-88d1-ecaf4ecf50dd",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "'s device to track whether the visitor is new or returning. role in web analytics: captures detailed user interaction. easy to set up (e.g., google analytics). helps in tracking user journeys, device usage, and conversions. limitation: doesn't work if javascript is disabled or blocked. answer: aspect web analytics google analytics includes multiple tools (omniture, webtrends, awstats, etc. ) google analytics is the most widely used tool. tools provides predefined reports, dashboards, and integra"
+  },
+  {
+    "chunk_id": "ebaf1f30-d0e8-4970-abb8-d7e6233e15db",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "e analytics is the most widely used tool. tools provides predefined reports, dashboards, and integrations. customization can be customized based on tools and methods. q3. in google analytics, how would you investigate a sudden drop in traffic? answer: steps to investigate: 1 check tracking code: ensure ga tracking code is present and firing correctly. 2 compare date ranges: see if drop is seasonal or linked to holidays/events. 3 traffic sources: identify if drop is from organic, referral, social"
+  },
+  {
+    "chunk_id": "2892a019-5611-42e1-adc0-abb5b494e169",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": " or linked to holidays/events. 3 traffic sources: identify if drop is from organic, referral, social, or paid traffic. 4 technical issues: check server downtime, broken links, or site errors 5 external factors: changes in google search ranking, ad campaigns stopped, or competitor activity: q4. how can file analysis assist in detecting malicious or automated traffic? answer: log log files record every server request, including from bots, crawlers, or malicious scripts. analysis can reveal: unusua"
+  },
+  {
+    "chunk_id": "03e883ae-c4c4-4c6f-8812-7e093355a0b0",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "ery server request, including from bots, crawlers, or malicious scripts. analysis can reveal: unusual traffic spikes from the same ip. excessive requests in short time (ddos attacks) . suspicious patterns (e.g., crawling hidden directories) since it doesn't rely on javascript, log file analysis also detects non-human traffic that page tagging might miss. q5. differentiate between metrics and dimensions in google analytics answer: metrics (numbers): quantitative measurements of behavior. example:"
+  },
+  {
+    "chunk_id": "9ebdfefb-8779-4b1c-b58f-6fe23b33a2d3",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "sions in google analytics answer: metrics (numbers): quantitative measurements of behavior. example: pageviews, bounce rate, conversion rate, session duration:. dimensions (categories): qualitative attributes used to group metrics. example: browser type, device (mobile/desktop) location, page url combined example: metric = pageviews dimension page url together pageviews per page. q6. explain the importance of web analytics answer: provides real evidence of user behavior (beyond guesswork). helps"
+  },
+  {
+    "chunk_id": "3c4d708b-7ee1-42b8-ac0f-59c69eaf87eb",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "mportance of web analytics answer: provides real evidence of user behavior (beyond guesswork). helps improve customer experience (personalization; faster navigation). supports marketing decisions (which campaigns work, roi analysis). identifies top products/services customers are most likely to buy: enables seo optimization by analyzing keywords and referral sources. guides geographic and demographic targeting. increases profitability and roi by reducing wasted marketing spend. q7. explain the p"
+  },
+  {
+    "chunk_id": "04fe98f7-4b66-49b3-baa9-711f16465db7",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "hic targeting. increases profitability and roi by reducing wasted marketing spend. q7. explain the process of web analytics answer: 1 set goals decide business objectives (e.g., increase sales, reduce bounce rate) 2 collect data use tools (google analytics, files) . log 3 process data convert raw data into structured reports. 4 identify kpis metrics (traffic, bounce rate, conversions). key 5 develop strategy use insights to plan improvements (seo, content, campaigns). experiment /test a/b testin"
+  },
+  {
+    "chunk_id": "f8f21a83-036e-4419-8efc-a43dc87626d2",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "op strategy use insights to plan improvements (seo, content, campaigns). experiment /test a/b testing, campaigns, design changes. 7 review & repeat continuously monitor and refine. q8. write a note on bounce rate answer: definition: bounce rate is the percentage of visitors who land on a page and leave without interacting further or visiting another page. formula: bounce rate-single-page sessionstotal sessionsxlooltext{bounce rate} = |frac{ltext{single-page sessions} itext{total sessions}} |time"
+  },
+  {
+    "chunk_id": "280ff1b4-d1f6-430a-b3b4-10f09849729f",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "otal sessionsxlooltext{bounce rate} = |frac{ltext{single-page sessions} itext{total sessions}} |times 1oobounce rate-total sessionssingle-page sessionsx10o interpretation: high bounce rate = users didn't find what wanted (bad sign for engagement). they low bounce rate = users explored multiple pages (good sign). exceptions: sometimes high bounce rate is fine (e.g., a contact info page where users just wanted phone number). aspect web analytics google analytics general concept of analyzing user b"
+  },
+  {
+    "chunk_id": "c018b115-d460-4f36-b6e3-85743bd424cb",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "just wanted phone number). aspect web analytics google analytics general concept of analyzing user behavior on specific tool (by google) to perform websites/apps. web analytics. definition covers both on-site (log files, page tagging) and scope off-site (seo, competitors). focuses mainly on on-site analytics using page tagging. aspect web analytics google analytics definition general concept of analyzing user behavior on specific tool (by google) to perform websites/apps. web analytics. focuses "
+  },
+  {
+    "chunk_id": "a75847d6-9f2f-4669-b68a-111dc12ac5d9",
+    "source_file": "minor_web.pdf",
+    "page": "all",
+    "content_type": "text",
+    "text": "alyzing user behavior on specific tool (by google) to perform websites/apps. web analytics. focuses mainly on on-site analytics using page tagging. covers both on-site (log files, page tagging) and scope off-site (seo, competitors)."
+  }
+]
