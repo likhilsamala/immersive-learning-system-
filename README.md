@@ -97,7 +97,7 @@ Navigate to the backend folder:
 
 cd backend
 
-# (Optional but recommended) Create virtual environment
+# Create virtual environment
 python -m venv venv
 
 # Activate it
