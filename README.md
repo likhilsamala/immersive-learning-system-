@@ -100,13 +100,13 @@ cd backend
 # Create virtual environment
 python -m venv venv
 
-# Activate it
-# Windows
+Activate it
+Windows
 .\venv\Scripts\activate
-# macOS / Linux
+ macOS / Linux
 source venv/bin/activate
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
 -> Running Backend Services
